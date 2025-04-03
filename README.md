@@ -11,3 +11,11 @@ AI Storyteller is a simple Streamlit-based web app that generates short creative
 ├── requirements.txt  # Python dependencies
 
 └── README.md  # Project documentation
+
+💡 Technologies Used
+
+Python
+
+Streamlit (UI framework)
+
+LangChain (for AI interactions)
